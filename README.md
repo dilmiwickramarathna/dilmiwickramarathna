@@ -1,7 +1,5 @@
 # Hi there, I'm Dilmi Wickramarathna 👋
 
-![Profile Banner](https://img.shields.io/badge/Software%20Engineer-Fintech%20%26%20Distributed%20Systems-0A66C2?style=for-the-badge&logo=java&logoColor=white)
-
 **Software Engineer | Stockholm, Sweden**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/dilmi-wick)
@@ -123,14 +121,6 @@ IoT smart cradle with ML-based baby monitoring and alerts.
 ![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</div>
 
 
 ---
