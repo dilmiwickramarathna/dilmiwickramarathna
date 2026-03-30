@@ -2,9 +2,9 @@
 
 **Software Engineer | Stockholm, Sweden**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/dilmi-wick)
-[![Email](https://img.shields.io/badge/Email-Me-FF6F00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6F00)](mailto:wickramarathnadilmi@gmail.com)
-[![Location](https://img.shields.io/badge/Stockholm%2C%20Sweden-🇸🇪-00C4B4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=00C4B4)](https://www.google.com/maps/place/Stockholm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4BA3F2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4BA3F2)](https://www.linkedin.com/in/dilmi-wick)
+[![Email](https://img.shields.io/badge/Email-Me-FFC107?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFC107)](mailto:wickramarathnadilmi@gmail.com)
+[![Location](https://img.shields.io/badge/Stockholm%2C%20Sweden-🇸🇪-00E5D4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=00E5D4)](https://www.google.com/maps/place/Stockholm)
 
 ---
 
