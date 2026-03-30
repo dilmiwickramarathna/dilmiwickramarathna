@@ -2,9 +2,9 @@
 
 **Software Engineer | Fintech & Distributed Systems | Java & Spring Boot Specialist**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dilmi-wickramarathna) 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:wickramarathnadilmi@gmail.com)
-[![Location](https://img.shields.io/badge/Stockholm,%20Sweden-🇸🇪-lightgrey?style=for-the-badge)](https://www.google.com/maps/place/Stockholm)
+[![LinkedIn](https://linkedin.com/in/dilmi-wickramarathna) 
+[![Email](mailto:wickramarathnadilmi@gmail.com)
+[![Location](https://www.google.com/maps/place/Stockholm)
 
 ---
 
