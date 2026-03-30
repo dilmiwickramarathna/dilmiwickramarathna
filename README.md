@@ -1,54 +1,61 @@
 # Hi there, I'm Dilmi Wickramarathna 👋
 
-**Software Engineer | Fintech & Distributed Systems | Java & Spring Boot Specialist**
+![Profile Banner](https://img.shields.io/badge/Software%20Engineer-Fintech%20%26%20Distributed%20Systems-0A66C2?style=for-the-badge&logo=java&logoColor=white)
 
-[![LinkedIn](https://linkedin.com/in/dilmi-wickramarathna) 
-[![Email](mailto:wickramarathnadilmi@gmail.com)
-[![Location](https://www.google.com/maps/place/Stockholm)
+**Software Engineer | Stockholm, Sweden**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/dilmi-wick)
+[![Email](https://img.shields.io/badge/Email-Me-FF6F00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6F00)](mailto:wickramarathnadilmi@gmail.com)
+[![Location](https://img.shields.io/badge/Stockholm%2C%20Sweden-🇸🇪-00C4B4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=00C4B4)](https://www.google.com/maps/place/Stockholm)
 
 ---
 
 ### 👩‍💻 About Me
 
-Passionate and detail-oriented **Software Engineer** with **3+ years** of hands-on experience in backend and full-stack development within **fintech** environments.  
+Passionate and detail-oriented **Software Engineer** with **3 years** of experience building **scalable, secure backend systems** at **London Stock Exchange Group (LSEG)**.  
 
-I specialize in building **scalable, secure, and high-performance systems** for equity, forex, and post-trade clearing at **London Stock Exchange Group (LSEG)**. Currently pursuing a **Master’s in Computer and Systems Sciences** at Stockholm University while contributing to open-source and personal projects.
+Specialized in **Java**, **Spring Boot**, and **distributed systems** for equity & forex post-trade clearing. Currently pursuing a **Master’s in Computer and Systems Sciences** at Stockholm University while working on IoT and full-stack projects.
 
-- 🔭 Currently working on **distributed systems** and **IoT** solutions
-- 🌱 Learning advanced **Kubernetes** orchestration and **GraphQL**
-- 💬 Ask me about **Java/Spring Boot microservices**, **fintech clearing systems**, or **IoT**
-- 📫 Open to collaboration on **backend**, **full-stack**, or **IoT** projects
+- 🔭 Currently building **real-time IoT platforms** and **microservices**
+- 🌱 Deepening knowledge in **Kubernetes**, **GraphQL**, and **cloud-native architecture**
+- 💬 Ask me about **fintech clearing systems**, **Spring Boot microservices**, or **IoT solutions**
+- 📫 Open to **collaborations**, **full-time roles**, or just a chat over coffee ☕
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-**Languages**  
+#### **Programming Languages**
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-**Frameworks & Tools**  
+#### **Frameworks & Tools**
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
-![gtest](https://img.shields.io/badge/gtest-4285F4?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microservices&logoColor=white)
+![gtest](https://img.shields.io/badge/gtest-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-**Databases**  
+#### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**DevOps & Cloud**  
+#### **DevOps & CI/CD**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-**Others**: Linux, Agile/Scrum, CI/CD, Test Automation, OOP, DSA
+#### **Operating Systems & Methodologies**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-00A4EF?style=for-the-badge&logo=windows&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-FF6F00?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-00C4B4?style=for-the-badge&logo=scrum&logoColor=white)
 
 ---
 
@@ -91,30 +98,41 @@ I specialize in building **scalable, secure, and high-performance systems** for 
 ### 🚀 Featured Projects
 
 **📝 Blogger** *(Jan 2025)*  
-A full-featured blogging platform with user authentication, CRUD operations, and profile management.  
-**Tech**: Java • Spring Boot • PostgreSQL • JWT • Spring Security • REST APIs • Maven  
-[View Project →](https://github.com/yourusername/blogger) *(replace with your actual repo)*
+Full-featured blogging platform with authentication, CRUD, and user profiles.  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+[View Repository →](https://github.com/yourusername/blogger) *(replace with actual link)*
 
 **♻️ Smart Waste Management System** *(Nov 2024 – Jan 2025)*  
-IoT-based system that monitors waste levels in real-time and optimizes collection routes for trucks.  
-**Tech**: Java • Android Studio • Python • Raspberry Pi • IoT • OpenStreetMap API
+IoT real-time waste monitoring + optimized truck routing.  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 **🚕 Destination Management System** *(Feb 2021 – June 2021)*  
-Microservices-based distributed booking system for taxis and hotels.  
-**Tech**: Java • Spring Boot • Microservices • REST APIs • Maven
+Microservices-based distributed booking system for taxis & hotels.  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microservices&logoColor=white)
 
 **🍼 Smart Cradle System** *(Final Year Project, 2020–2021)*  
-IoT smart cradle that analyzes baby’s condition using ML and sends real-time alerts to parents.  
-**Tech**: Machine Learning • CNN • Image Processing • Python • Raspberry Pi • IoT
+IoT smart cradle with ML-based baby monitoring and alerts.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Dilmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</div>
 
-
-**💡 Always open to new opportunities, collaborations, or just a quick chat about fintech, distributed systems, or IoT!**
 
 ---
+
+**💡 Always open to exciting opportunities in fintech, distributed systems, or IoT! Feel free to connect or collaborate.**
