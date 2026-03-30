@@ -125,4 +125,4 @@ IoT smart cradle with ML-based baby monitoring and alerts.
 
 ---
 
-**💡 Always open to exciting opportunities in fintech, distributed systems, or IoT! Feel free to connect or collaborate.**
+**💡 Always open to exciting opportunities in backend development, fullstack development, distributed systems, or IoT! Feel free to connect or collaborate.**
