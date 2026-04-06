@@ -17,7 +17,7 @@ Specialized in **Java**, **C++**, **Python**, **Spring Boot**, and **distributed
 ## 🛠️ Technologies & Tools
 
 **Programming Languages:**  
-💻 Java | 🐍 Python | ⚙️ C++ | #️⃣ C#
+💻 Java | ⚙️ C++ | 🐍 Python
 
 **Frameworks & Tools:**  
 🌱 Spring Boot | 📦 Maven | 🧪 JUnit | 🕸️ GraphQL | 🔗 REST APIs | 🔧 Microservices | ✅ gtest
