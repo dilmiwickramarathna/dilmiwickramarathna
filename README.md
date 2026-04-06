@@ -10,7 +10,7 @@
 
 Passionate and detail-oriented **Software Engineer** with **3 years** of experience building **scalable, secure backend systems** at **LSEG (London Stock Exchange Group)**.  
 
-Specialized in **Java**, **Spring Boot**, and **distributed systems** for equity & forex post-trade clearing. Currently pursuing a **Master’s in Computer and Systems Sciences** at Stockholm University while working on IoT and full-stack projects.
+Specialized in **Java**, **C++**, **Python**, **Spring Boot**, and **distributed systems** for equity & forex post-trade clearing. Currently pursuing a **Master’s in Computer and Systems Sciences** at Stockholm University while working on IoT and full-stack projects.
 
 ---
 
